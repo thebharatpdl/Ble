@@ -1,4 +1,4 @@
-# BLE Heart Rate Monitor App
+# BLE Device Manager
 
 A React Native application that demonstrates **BLE device management**, **live heart rate monitoring**, and **advanced animations tied to BLE data**.
 
