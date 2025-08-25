@@ -65,7 +65,7 @@ cd <project-folder>
 
 
 
-2. **Install dependencies**
+2. Install dependencies
 
 npm install
 # or
@@ -75,7 +75,6 @@ yarn install
 3.Run the app
 
 Android
-
 npx react-native run-android
 
 
