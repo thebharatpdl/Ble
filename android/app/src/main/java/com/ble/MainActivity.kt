@@ -1,4 +1,4 @@
-package com.ble
+package com.blemanager
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

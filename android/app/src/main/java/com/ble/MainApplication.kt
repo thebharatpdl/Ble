@@ -1,4 +1,4 @@
-package com.ble
+package com.blemanager
 
 import android.app.Application
 import com.facebook.react.PackageList
