@@ -50,11 +50,6 @@ The app uses **`react-native-ble-plx`** for BLE communication.
 - `BLUETOOTH_CONNECT`
 - `ACCESS_FINE_LOCATION`
 
-### iOS
-- Add Bluetooth usage description in `Info.plist`:
-```xml
-<key>NSBluetoothAlwaysUsageDescription</key>
-<string>App requires Bluetooth to connect to heart rate devices</string>
 
 
 
