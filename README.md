@@ -55,10 +55,27 @@ The app uses **`react-native-ble-plx`** for BLE communication.
 
 
 
-## Setup Instructions
+## 🛠️Setup Instructions
 
 1. **Clone the repository**
 
 ```bash
 git clone <url>
 cd <project-folder>
+
+
+
+2. **Install dependencies**
+
+npm install
+# or
+yarn install
+
+
+3.Run the app
+
+Android
+
+npx react-native run-android
+
+
